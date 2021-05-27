@@ -1,0 +1,19 @@
+{
+  "name": "notable",
+  "version": "1.0.0",
+  "description": "https://habr.com/ru/company/ruvds/blog/321104/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsRoman/notable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsRoman/notable/issues"
+  },
+  "homepage": "https://github.com/fsRoman/notable#readme"
+}
